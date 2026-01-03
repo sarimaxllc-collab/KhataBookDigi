@@ -1,0 +1,5 @@
+{
+  "name": "Digital Khata Ledger",
+  "description": "A bilingual (English/Roman Urdu) financial ledger for managing debts and credits with AI-powered insights.",
+  "requestFramePermissions": []
+}
